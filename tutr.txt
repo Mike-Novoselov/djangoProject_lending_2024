@@ -1,0 +1,4 @@
+django-admin startapp APP ---------------- для добавления приложения APP
+
+python manage.py makemigrations ---------------- создать миграцию
+python manage.py migrate ---------------- Мигрировать созданную миграцию
